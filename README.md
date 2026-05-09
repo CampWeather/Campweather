@@ -1,4 +1,56 @@
-## Hi there 👋
+<h1 align="center">Yo, I'm Rilo Zidane</h1>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Merriweather&pause=1000&color=F78017&center=true&vCenter=true&width=550&lines=Building+the+Future+of+Algorithmic+Trading;Quantitative+Developer+%26+AI+Systems+Architect;Still+Growing%2C+Many+Adventure+Waiting+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F" alt="Typing SVG" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+## 🧠 About Me
+
+> *"All that shine is not gold"*
+> — The Merchant of Venice
+
+I'm a **Quantitative Developer** and also interested in **AI Systems Architecture** that can improve stock market research. I'm obsessed with the idea of building a fully autonomous, intelligent trading environment powered by a collaborative network of specialized AI agents.
+
+Right now, I'm building a multi-agent environment for market analysis. The idea is simple: instead of relying on one model or one signal, I want different agents to look at the market from different angles, compare their findings, and produce a more reliable analysis.
+
+I work mainly around quantitative finance, machine learning, backtesting, financial data pipelines, and AI system design.
+
+I care about systems that are clear, testable, and grounded in data.
+
+---
+
+## ⚙️ Technical Stack
+
+<div align="center">
+
+### 🤖 Agent Frameworks
+![LangGraph](https://img.shields.io/badge/LangGraph-Production_Orchestration-58a6ff?style=for-the-badge&logo=LangGraph&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-Rapid_Prototyping-3fb950?style=for-the-badge&logo=CrewAI&logoColor=white)
+
+### 🧬 Deep Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 📊 Quantitative & Financial
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
+### 🗄️ Data & Infrastructure
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=postgresql&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+
+**→ Let's build together.**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--
 **CampWeather/Campweather** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
