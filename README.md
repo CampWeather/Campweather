@@ -1,6 +1,6 @@
 <h1 align="center">Yo, I'm Rilo Zidane</h1>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Merriweather&pause=1000&color=F78017&center=true&vCenter=true&width=550&lines=Building+the+Future+of+Algorithmic+Trading;Quantitative+Developer+%26+AI+Systems+Architect;Still+Growing%2C+Many+Adventure+Waiting+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Merriweather&pause=1000&color=F78017&center=true&vCenter=true&width=550&lines=Building+the+Future+of+Algorithmic+Trading;Quantitative+Developer+%26+AI+Systems+Architect;Still+Growing%2C+Many+Adventure+is+Waiting+to+Discover" alt="Typing SVG" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
