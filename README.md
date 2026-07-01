@@ -15,9 +15,11 @@ I'm a **Quantitative Developer** and also interested in **AI Systems Architectur
 
 Right now, I'm building a multi-agent environment for market analysis. The idea is simple: instead of relying on one model or one signal, I want different agents to look at the market from different angles, compare their findings, and produce a more reliable analysis.
 
-I work mainly around quantitative finance, machine learning, backtesting, financial data pipelines, and AI system design.
+I also dabble in game development as a hobby, I feel my artistic side really comes through in this field 😸 and I have several game projects currently in development. Stay tuned for the release 🪄
 
-I care about systems that are clear, testable, and grounded in data.
+I work mainly around quantitative finance, machine learning, backtesting, financial data pipelines, Game Development and AI system design.
+
+Reminder: Don't Forget to Have fun in Coding Mate, There are many to Explore and Learn 🧭
 
 ---
 
