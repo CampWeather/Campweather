@@ -1,6 +1,6 @@
 <h1 align="center">Yo, I'm Rilo Zidane</h1>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Merriweather&pause=1000&color=F78017&center=true&vCenter=true&width=550&lines=Building+the+Future+of+Algorithmic+Trading;Quantitative+Developer+%26+AI+Systems+Architect;Still+Growing%2C+Many+Adventure+is+Waiting+to+Discover" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Merriweather&pause=1000&color=F78017&center=true&vCenter=true&width=550&lines=Building+the+Future+of+Algorithmic+Trading;Quantitative+Developer+%26+AI+Systems+Architect;Funfact%3A+I'm+also+a+Game+Developer;Still+Growing%2C+Many+Adventure+is+Waiting+to+Discover" alt="Typing SVG" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -46,8 +46,9 @@ I care about systems that are clear, testable, and grounded in data.
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/ai-overview/)
 
 ### 🎮 Game Development
-[![Godot](https://img.shields.io/badge/Godot_Engine-2A71EB?style=for-the-badge&logo=godot_engine&logoColor=white)](https://godotengine.org/)
-[![CSharp](https://img.shields.io/badge/CSharp-150458?style=for-the-badge&logo=csharp&logoColor=white)]([https://pandas.pydata.org/docs/getting_started/index.html](https://dotnet.microsoft.com/en-us/languages/csharp))
+[![Godot](https://img.shields.io/badge/Godot_Engine-2A71EB?style=for-the-badge&logo=godotengine&logoColor=white)](https://godotengine.org/)
+[![C#](https://img.shields.io/badge/c%23-1DAFDB?style=for-the-badge&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
+[![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html)
 
 </div>
 
